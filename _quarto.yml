@@ -80,7 +80,7 @@ website:
             text: EM Algorithm
           - href: ./pages/Probabilistic_PCA.ipynb
             text: Probabilistic PCA
-          - href: ./pages/agg.ipynb
+          - href: ./pages/aggg.ipynb
             text: Agglomerative Clustering
       - section: "Case Studies"
         contents:
